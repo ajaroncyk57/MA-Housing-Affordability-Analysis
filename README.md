@@ -47,3 +47,4 @@ ma-housing-affordability-analysis/
 ├── requirements.txt
 └── README.md
 ```
+This project uses official public data from the U.S. Census ACS API and is intended as a public-data analytics case study focused on housing affordability in Massachusetts.

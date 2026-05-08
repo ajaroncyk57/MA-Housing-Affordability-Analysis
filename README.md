@@ -4,6 +4,12 @@ A county-level housing affordability analysis using official ACS Census API data
 
 This project examines housing affordability across Massachusetts counties by comparing household income, home values, rents, cost-burden indicators, and estimated ownership costs under mortgage assumptions.
 
+
+## Notebook
+
+GitHub may not render the Notebook preview reliably. View the rendered Notebook here: [Open the Full Notebook on nbviewer](https://nbviewer.org/github/ajaroncyk57/MA-Housing-Affordability-Analysis/blob/main/notebooks/01_MA_County_Affordability_Analysis.ipynb)
+
+
 ## Project Status
 
 Initial analysis complete.
